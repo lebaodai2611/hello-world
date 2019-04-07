@@ -1,2 +1,4 @@
 # hello-world
-I am Dai
+Hi everyone
+My name is Dai, I'm a student at University of Science
+I love Math.
